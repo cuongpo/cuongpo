@@ -14,10 +14,6 @@
   <br/><br/><br/>
 </div>
 
-[![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuongpo&show_icons=true&count_private=true&theme=darcula)](https://github.com/cuongpo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongpo&layout=compact)](https://github.com/cuongpo)
-
 
 ## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,git,docker,bash,linux,python,rust,typescript,cs,dotnet,css,html,js,jquery,react,vue,nextjs,postgres)](https://skillicons.dev)
